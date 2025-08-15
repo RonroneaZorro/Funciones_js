@@ -16,10 +16,10 @@ El Estado de Chile ofrece un subsidio de arriendo si el postulante cumple los si
 
 **Solución en Branch "M4AE2-ABP2"**
 
-## Ejecutar y utilizar las funciones
+##  Ejecutar y utilizar las funciones
 Puedes probar estas funciones de dos maneras:
 
-**1. Node.js**
+** <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/1b1b6dc9-2a94-44f9-b182-d195b0b9f2dc" /> 1. Node.js**
 
 Asegúrate de tener Node.js instalado.
 
