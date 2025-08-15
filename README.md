@@ -25,15 +25,18 @@ Asegúrate de tener Node.js instalado.
 
 Clona o descarga este repositorio.
 
-Abre tu terminal y navega hasta la carpeta principal del proyecto (Actividad-js-basico).
+Abre tu terminal y navega hasta la carpeta principal del proyecto (Funciones_js).
 
 Bash
-cd [ruta_a_tu_carpeta]/Actividad-js-basico
-Ejecuta los archivos especificando la subcarpeta js:
+cd [ruta_a_tu_carpeta]/Funciones_js
+git checkout [rama de la función elegida]
+Ejecuta los archivos especificando la subcarpeta que corresponda:
+
+ejemplo
 
 Bash
-node js/problema-1.js
-node js/problema-2.js
+node M4AE2-ABP2/problema1.js
+node M4AE2-ABP2/problema2.js
 Los resultados se mostrarán en la terminal.
 
 **2. Consola del Navegador**
@@ -46,7 +49,7 @@ Abre las Herramientas de Desarrollador (clic derecho e "Inspeccionar").
 
 Ve a la pestaña "Console" (Consola).
 
-Abre el archivo .js que quieres probar en un editor de texto.
+Abre el archivo .js click derecho -> abrir con -> block de notas.
 
 Copia todo el contenido del archivo.
 
