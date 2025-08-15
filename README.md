@@ -28,15 +28,21 @@ Clona o descarga este repositorio.
 Abre tu terminal y navega hasta la carpeta principal del proyecto (Funciones_js).
 
 Bash
+
 cd [ruta_a_tu_carpeta]/Funciones_js
+
 git checkout [rama de la función elegida]
+
 Ejecuta los archivos especificando la subcarpeta que corresponda:
 
 ejemplo
 
 Bash
+
 node M4AE2-ABP2/problema1.js
+
 node M4AE2-ABP2/problema2.js
+
 Los resultados se mostrarán en la terminal.
 
 **2. Consola del Navegador**
