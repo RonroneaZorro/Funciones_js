@@ -3,23 +3,23 @@ Este repositorio contiene las funciones que resulven problematicas planteadas a 
 
 ## 📝 Descripción de los Problemas 
 
-### Problema 1: Convertidor de Dólares a Pesos Chilenos (CLP)
+###📌 Problema 1: Convertidor de Dólares a Pesos Chilenos (CLP)
 
 ✅ Enunciado
 Se solicita una función que reciba como parámetro el monto en dólares de una cuenta corriente y lo convierta a pesos chilenos usando un tipo de cambio de 745 CLP por USD.
 Debe validar que el monto ingresado sea un número válido (puede incluir decimales).
 
-### Problema 2: Evaluar la postulación de "Subsidio de arriendo de vivienda"
+###📌 Problema 2: Evaluar la postulación de "Subsidio de arriendo de vivienda"
 
 ✅ Enunciado
 El Estado de Chile ofrece un subsidio de arriendo si el postulante cumple los siguientes requisitos: Ser mayor de 18 años. Tener cédula vigente (chilena o de extranjero). Tener mínimo 4 UF de ahorro en una cuenta de vivienda. Estar dentro del 70% más vulnerable del Registro Social de Hogares (RSH).
 
-**Solución en Branch "M4AE2-ABP2"**
+**💡 Solución en Branch "M4AE2-ABP2" 💡**
 
-##  Ejecutar y utilizar las funciones
+## 🚀 Ejecutar y utilizar las funciones
 Puedes probar estas funciones de dos maneras:
 
-** <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/1b1b6dc9-2a94-44f9-b182-d195b0b9f2dc" /> 1. Node.js**
+**🌱 1. Node.js**
 
 Asegúrate de tener Node.js instalado.
 
@@ -45,7 +45,7 @@ node M4AE2-ABP2/problema2.js
 
 Los resultados se mostrarán en la terminal.
 
-**2. Consola del Navegador**
+**💻 2. Consola del Navegador**
 
 Esta opción no requiere instalación adicional.
 
