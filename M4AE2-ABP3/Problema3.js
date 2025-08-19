@@ -3,13 +3,6 @@
 
 function numeroGanador (numeroIngresado) {
 
-alert(
-    " Antes de usar esta función, asegúrate de ingresar los parametros correctos:\n" +
-    "- numeroIngresado: debe ser un número entero positivo mayor a 0.\n" +
-    "- Cédula de identidad: si esta vigente ingresar (true), si no (false).\n" +
-    "- Ahorro(UF): debe ser un número mayor o igual 0.\n" +
-    "- Porcentaje de vulnerabilidad: debe ser un número mayor o igual 0."
-  );
 
 // Definimos las constantes que son los requisitos minimos
 
