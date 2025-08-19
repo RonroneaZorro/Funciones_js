@@ -88,7 +88,7 @@ Crear una función que permite dado un número n imprima la tabla de multiplicar
 
 **💡 Solución en Branch "M4AE4-ABP5" 💡**
 
-### 📌Problema 15: Gestión de Reservas en un Cine
+### 📌Problema 16: Gestión de Reservas en un Cine
 
 ✅ Enunciado
 Un cine local quiere mejorar su sistema de reservas en línea. Actualmente, las reservas se hacen manualmente y desean una solución que permita gestionar los asientos disponibles y reservados de manera eficiente
