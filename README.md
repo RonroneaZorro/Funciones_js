@@ -140,4 +140,6 @@ Copia todo el contenido del archivo.
 
 Pega el código directamente en la Consola del navegador y presiona Enter.
 
+Luego evalua la funcion descrita, console.log(FUNCION(PARAMETROS DE ENTRADA));
+
 Los resultados se mostrarán en la consola del navegador.
